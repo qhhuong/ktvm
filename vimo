@@ -1,2 +1,297 @@
-TR (Tổng doanh thu - Total Revenue) = P.Q
-AVC (Chi phí biến đổi bình quân) = VC/Q
+CHƯƠNG 1 - 2 -3 : 
+	PHẦN 1 : TỔNG QUAN 
+	- Nguồn lực : Là tất cả những gì mình đang có -> hữu hạn
+	- Nhu cầu: : Là những gì mình muốn có -> vô hạn
+=> Kinh tế học : học cách sắp xếp, quản lý, phân bố nguồn lực -> tối ưu nhu cầu
+	+ Vi mô : nghiên cứu từng thị trường cụ thể
+	+ Vĩ mô : tổng quan nền kinh tế
+	3 VẤN ĐỀ KINH TẾ HỌC CĂN BẢN
+	- Sản xuất cgi
+	- Sx như thế nào
+	- Sx cho ai
+	1. Chi phí cơ hội
+	 - CPCH là lợi ích của cơ hội lớn nhất bị bỏ qua
+	 - CPCH là toàn bộ chi phí phải hy sinh để đạt được 1 lợi ích nào đó ("Không có bữa trưa nào miễn phí")
+	- CPCH = CP kinh tế = CP hiện + CP ẩn
+	2. Đường giới hạn khả năng sản xuất
+	- A : nằm trong -> có sx được nhưng chưa sử dụng hết nguồn lực
+	- B : nằm trên -> có sx được và sử dụng hết nguồn lực
+	- C : nằm ngoái -> ko sx được
+
+====> CPCH là độ dốc của đường PPF
+
+b. CPCH sx ra 1 lương thực 
+CPCH sx 1 lương thực = (14 - 15) / (1 - 0) = -1 (thủy sản)
+(Hy sinh 1 thủy sản)
+CPCH sx 2 lương thực = (12 - 15) / (2 - 0) = -1,5 (thủy sản)
+
+c. CPCH sản xuất đơn vị lương thực thứ 1
+CPCH sản xuất đơn vị lương thực thứ 1 = (14 - 15) / (1 - 0) = -1 (thủy sản)
+
+2 = (12 - 14) / (2 - 1) = -2 (thủy sản)
+3 = (9 - 12) / (3 - 2) = -3 (thủy sản)
+4 = (5 - 9) / (4 - 3) = -4 (thủy sản)
+5 = (0 - 5) / (5 - 4) = -5 (thủy sản)
+
+Kết luận:
+CPCH sản xuất n đơn vị lương thực = Tổng CPCH sản xuất đơn vị lương thực thứ i / n
+
+Quy luật CPCH tăng dần (Độ dốc PPF tăng dần)
+PPF đường thẳng -> Độ dốc ko đổi => CPCH ko đổi ( aX+bY=c)
+	3. Lợi thế
+	- Lợi thế tuyệt đối :   + SX hàng hóa tốn ít đầu vào hơn
+								+ cùng đầu vào -> SX nhiều hàng hóa hơn
+	- Lợi thế so sánh : SX hàng hóa tốn ít chi phí cơ hội hơn
+	-  Khác nhau : 
++ LTTĐ : 1 ng/ quốc gia có thể có cả 2 LTTĐ
+	+ LTSS : 1 ng/ quốc gia chỉ có thể có 1 LTTĐ
+	=> Dựa vào LTSS để quyết định người nào/ quốc gia nào sẽ chuyên môn hóa sx cái gì
+	- Chi phí sản xuất cá c: 
+		○ Hoa Kỳ : sx 300 cá hy sinh 600 thịt
+					-> sx 1 cá hy sinh 2 thịt
+		○ Canada : sx 200 cá hy sinh 200 thịt
+					-> sx 1 cá hy sinh 1 thịt
+	=> Canada có LTSS trong sx cá
+	=> Hoa Kỳ có LTSS trong sx thịt
+	
+	==> Canada xk cá, nhập khẩu thịt ( Hoặc là ngược lại )
+=> tỉ lệ trao đổi : nằm giữa 2 CPCH
+PHẦN 2 : CUNG CẦU VÀ CO GIÃN
+Trong nền kinh tế : - Hộ gia đình
+							- Doanh nghiệp
+							- Chính phủ
+Mô hình vòng luân chuyển (SGK)
+	- Cầu : -- có nhu cầu
+			-- có khả năng chi trả
+	- Cung : -- có nhu cầu bán
+			  -- có khả năng sản xuất
+			
+	Cung cầu :  ( Phương trình bậc nhất, tuyến tính, đường thẳng )
+	Q = a + b. P ( xuôi )
+P = c +d.Q (ngược)
+	- Đường cầu thể hiện mức giá cao nhất mà người tiêu dùng sẵn sàng chi trả (D)
+  - Đường cung thể hiện mức giá thấp nhất mà người bán sẵn sàng bán (S)
+
+	- Thị trường tự do (Ko có sự can thiệp chính phủ)
+--> NSB max (Đạt hiệu quả cao nhất)
+--> Thiếu công bằng
+	- Thị trường có can thiệp của CP: 
+--> trở nên công bằng hơn
+--> kém hiệu quả hơn
+	- 4 biện pháp can thiệp của Chính phủ: 
++ Thuế
++ Trợ cấp
++ Giá trần
++ Giá sàn
+
+NSB (Net Social Benefit) = CS + PS
+
+CÁC YẾU TỐ ẢNH HƯỞNG ĐẾN ĐƯỜNG CUNG, CẦU
+----- Yếu tố nội sinh : Giá cả
+----- Yếu tố ngoại sinh : Yếu tố từ bên ngoài
+
+P thay đổi --> chỉ ảnh hưuỏng đến Lượng cầu (Qs), Lượng cung (Qd)
+                  --> Không ảnh hưởng đến đường S, D
+==> Gây ra sự vận động dọc 
+
+Yếu tố bên ngoài : Ảnh hưởng tới đường D, S
+==> Gây ra sự dịch chuyển sang trái/ phải
+
+*Gánh nặng thuế: 
+Cầu hoàn toàn co giãn theo giá
++ Chỉ chấp nhận 1 mức giá duy nhất
+	+ Nếu tăng giá -> ng tiêu dùng sẽ ngừng mua -> NSX buộc ph giảm giá bán ròng để giữ giá -> Toàn bộ thuế do NSX gánh
+
+
+Cầu thẳng đứng : Ko co giãn ( Giá sao thì vẫn ph mua)
+Cầu nằm ngang : Hoàn toàn co giãn (Tăng giá thì mất hết khách)
+Cầu dốc xuống : Bình thường (Giá tăng, cầu giảm - Giá giảm, cầu tăng)
+
+Cung thẳng đứng: Ko co giãn (Giá đổi nhưng cung ko đổi, cung cố định)
+Cung nằm ngang: Hoàn toàn co giãn (Cung đổi, giá cố định)
+Cung dốc lên: Bth (Giá tăng, cung tăng - giá giảm, cung giảm)
+
+
+– 5 yếu tố ngoại sinh ảnh hưởng đến D: 
++ Dân số (Quy mô thị trường) -> D dịch phải
++ Thị hiếu (taste) -> D dịch phải
++ Kì vọng (Expectation) -> D dịch phải
+vd : GIá tương tai tăng -> mua luôn ở hiện tại
++Giá hàng liên quan
++Thu nhập tăng : +, D về hàng cấp thấp giảm
+		    +, D về hàng thông thường (Hàng thiết yếu và hàng xa xỉ) tăng
+- 5 YẾU TỐ NGOẠI SINH ẢNH HƯỞNG ĐẾN S
+1. Số lượng người sx tăng -> S dịch phải
+2. Công nghệ sản xuất -> S dịch phải
+3. Kì vọng -> Pe tăng -> S dịch trái
+4. Chi phí đầu vào -> S dịch trái
+5. Chính phủ -- đánh thuế -> S dịch trái
+                        -- trợ cấp -> S dịch phải
+
+	- Khi D;S dịch chuyển sang phải,trái -> thay đổi điểm cân bằng -> Qe, Pe thay đổi
+1. D dịch phải/ trái => Pe tăng/giảm ; Qe tăng/giảm
+2. S dịch phải -> Pe giảm, Qe tăng
+3. Cả 2 đường cùng dịch chuyển 
+
+CÔNG THỨC % THAY ĐỔI:
+%delta TR = %deltaP + %deltaQ
+(*****) CÔNG THỨC TÍNH ĐỘ CO GIÃN: 
+Ed = %deltaQ/ %deltaP 
+   |Ed| > 1 : Cầu co giãn
+   |Ed| < 1  : Cầu không co giãn
+   |Ed| = 1 : Cầu đơn vị co giãn
+CÔNG THỨC ĐỘ CO GIÃN CỦA CẦU THEO GIÁ : 
+Ed = dQ/dP . P/Q
+VD : Pd = 65-0,5Q => 0,5Q = 65 - P => Q = 2(65-P) => Q= 130 - 2P => Q= -2
+=> dQ/dP = -2
+ 
+CÔNG THỨC TÍNH PS, CS:
+CS = ½ . (Giá cao nhất - Pe) . Qe
+PS = ½ . (Pe - Giá thấp nhất) . Qe
+CÔNG THỨC TÍNH ĐỘ CO GIÃN CHÉO:
+E y/x = %deltaQy / %deltaPx
+E xy > 0: HH thay thế
+E xy < 0: HH bổ sung
+E xy = 0: Ko liên quan đến nhau
+
+CÔNG THỨC TÍNH CO GIÃN KHOẢNG: 
+E =  Q2 - Q1
+   —----------
+    (Q2+Q1)/2
+—-----------------------
+     P2 - P1
+    —---------
+   (P2 + P1)/2
+CÔNG THỨC TÍNH PHÚC LỢI XH RÒNG (NSB):
+NSB = CS + PS
+        = 0/Q (Pd) dQ + 0/Q (Ps)dQ
+THUẾ : Ps mới = Ps + thuế
+
+*Điểm đóng cửa: 
+MC = AVC (Q luôn bằng 0)
+TR = VC
+(TR>VC -> mở cửa)
+
+*Điểm hòa vốn: 
+MC = ATC
+TR = TC => pi (lợi nhuận) = 0
+
+*Điểm sản xuất tối ưu: MC = P thị trường
+
+PS = 0/Q*(P thị trường - MC)dQ
+(S 1 hãng = MC) : P = a+bQ
+ 
+pi(max) (lợi nhuận tối ưu) = Doanh thu - Chi phí = TR - TC = (P.Q) - (VC+FC)
+
+TT có n hãng => S thị trường = a + b.n/Q
+
+CẠNH TRANH HOÀN HẢO
+P = MC = MR = AR
+1, Tổng doanh thu (Total Revenue) : Là toàn bộ doanh thu Dn thu được từ việc bán HH
+TR = P. Q
+2, AR - Doanh thu bình quân (Average Revenue) : Là doanh thu trung bình trên mỗi đơn vị sp bán ra
+AR = P
+3, MR - Doanh thu cận biên (Marginal Revenue) : là phần doanh thu tăng thêm khi bán thêm một đơn vị sản phẩm
+MR = TR’ = P = MC
+4,TC-  Tổng chi phí (Total Cost) : Là toàn bộ chi phí để sxuat ra 1 mức sản lượng nhất định
+TC = FC + VC
+5, FC - Chi phí cố định (Fixed cost) : là chi phí cố định ko thay đổi theo số lượng
+6, VC - Chi phí biến đổi (Variable Cost) : Chi phí thay đổi theo mức sản lượng
+7, ATC - Tổng chi phí bình quân : CP trung bình cho mỗi đơn vị sản phẩm
+ATC = TC/Q =  AVC + AFC
+8, AVC - Chi phí biến đổi bình quân : Là biến phí trung bình trên mỗi sản phẩm
+AVC = VC/Q
+9, AFC - Chi phí cố định bình quân : Định phí trb trên mỗi sản phẩm
+AFC = FC/Q
+10,MC - Chi phí cận biên : CP tăng thêm khi sản xuất thêm 1 đvi sx
+MC = TC’ = (VC+FC)’ = VC’
+
+Khi MC < AVC → AVC đang giảm
+Khi MC = AVC → AVC ko đổi
+Khi MC > AVC → AVC đang tăng
+
+MC < ATC => Trung bình giảm
+MC > ATC => Trung bình tăng
+MC = ATC => Chi phí thấp nhất
+
+MC = MR = P	: Điểm tối ưu trong cạnh tranh hoàn hảo
+P > ATC: 	Đang có lợi nhuận
+P = ATC	: Lợi nhuận kinh tế bằng 0
+P < ATC	: Đang lỗ
+
+MC < MR -> Làm thêm vẫn lời : Phải sản xuất thêm.
+MC > MR -> Làm thêm bị lỗ : Phải giảm sản xuất.
+MC = MR -> Lợi nhuận cao nhất : Đây là điểm dừng đẹp nhất.
+
+Cạnh tranh hoàn hảo: Độ dốc bằng 0 – dễ gia nhập
+Cạnh tranh độc quyền: Độ dốc âm – dễ gia nhập
+Độc quyền nhóm: Độ dốc âm – khó gia nhập
+Độc quyền: Độ dốc âm – rất khó gia nhập
+
+ĐỘC QUYỀN : 
+P = a + bQ => MR = a + 2bQ
+
+P > ATC : Lợi nhuận kinh tế dương
+P < ATC : LNKT âm
+P = ATC : LNKT = 0
+
+1. Điểm sản xuất tối ưu của hãng: (pi max) 
+MC = MR 
+<Mẹo: MR = TR’ = a-2bQ>
+Khi tối đa hóa doanh thu : => MR = 0
+Khi tối đa hóa lợi nhuận: => MR = MC
+
+2. Điểm tối ưu của XH: (NSB max)
+MC = P (gần giống điểm cân bằng)
+=> Qe
+=> DWL = Q*/Qe (P-MC)dQ
+
+3. Điểm doanh thu max (MR = 0)
+4. Thặng dư
+PS = 0/Q* (P-MC)dQ
+Cs = 0/Q* (P-P*)dQ
+ 
+*Phân biệt giá HH: 
+TR = 0/Qe P dQ
+pi (lợi nhuận) = TR - TC
+
+6. Chỉ số Lerner (đo sức mạnh nhà ĐQ):
+       L = P* - MC
+	         —---------
+               P*
+Trong đó:
+P: Giá bán tại sản lượng tối ưu.
+MC: Chi phí cận biên tại sản lượng tối ưu.
+7. S hãng CTHH = MC (còn hãng ĐQ thì ko có)
+8. Đánh thuế
+Đánh thuế trên từng sp (t)
+TC2 = TC1 + t.Q
+=> MC2 = MC1 + t
+=> Điểm sx tối ưu của hãng
+=> MC2 = MR
+=> Người tiêu dùng chịu : P*2 - P*1
+=> Nhà sx chịu: t - (P*2 - P*1)
+Đánh thuế 1 lần (thuế cố định): 
+TC2 = TC1 + t
+=> MC2 = MC1
+=> MC ko đổi
+=> Điểm sx tối ưu mới
+=> pi max 2 = pi max 1 - t
+=> {Người tiêu dùng ko chịu thuế
+      NSX chịu hết
+CHI PHÍ VÀ LỢI NHUẬN:
+CP kinh tế = CP hiện (CP kế toán ) + CP ẩn (ko đo được bằng tiền)
+=> CP Kinh tế > CP kế toán
+LN kinh tế = Doanh thu - LN kế toán - CP ẩn
+
+31.Nếu một hãng cạnh tranh hoàn hảo đang tối đa hóa lợi nhuận và đang thu được lợi nhuận kinh tế, hãng phải sản xuất mức sản lượng sao cho:
+A. Chi phí cận biên lớn hơn tổng chi phí trung bình (ĐA)
+B. Giá lớn hơn doanh thu cận biên
+C. Giá lớn hơn chi phí cận biên
+D. Chi phí cận biên lớn hơn doanh thu cận biên
+4. Trong dài hạn, hãng trong cạnh tranh độc quyền sẽ:
+A. Sản xuất tại mức ATC min (ĐA)
+B. Lợi nhuận kinh tế dương
+C. Sản xuất ít hơn mức ATC min
+D. Bán giá bằng chi phí cận biên
+
