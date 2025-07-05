@@ -43,8 +43,10 @@ PPF đường thẳng -> Độ dốc ko đổi => CPCH ko đổi ( aX+bY=c)
 								+ cùng đầu vào -> SX nhiều hàng hóa hơn
 	- Lợi thế so sánh : SX hàng hóa tốn ít chi phí cơ hội hơn
 	-  Khác nhau : 
-+ LTTĐ : 1 ng/ quốc gia có thể có cả 2 LTTĐ
-	+ LTSS : 1 ng/ quốc gia chỉ có thể có 1 LTTĐ
++ LTTĐ : 1 ng/ quốc gia có thể có cả 2 LTTĐ 
+(Ai đó giỏi hơn ng khac trong việc làm ra 1 món đồ, làm ra nhiều hơn trong cùng 1 khoảng tgian)
++ LTSS : 1 ng/ quốc gia chỉ có thể có 1 LTTĐ
+(Ai đó làm 1 việc với chi phí thấp hơn ng khác)
 	=> Dựa vào LTSS để quyết định người nào/ quốc gia nào sẽ chuyên môn hóa sx cái gì
 	- Chi phí sản xuất cá c: 
 		○ Hoa Kỳ : sx 300 cá hy sinh 600 thịt
@@ -81,8 +83,12 @@ P = c +d.Q (ngược)
 	- 4 biện pháp can thiệp của Chính phủ: 
 + Thuế
 + Trợ cấp
-+ Giá trần
++ Giá trần 
+	Giá trần: Chính phủ đặt giá thấp hơn giá cân bằng
+        (Thị trường sẽ cân bằng nếu) Giá trần được thiết lập cao hơn giá CB
 + Giá sàn
+	Giá sàn: CP đặt giá Giá cao hơn giá cân bằng
+        (Thị trường sẽ cân bằng nếu) Giá sàn được thiết lập thấp hơn giá CB
 
 NSB (Net Social Benefit) = CS + PS
 
@@ -219,9 +225,9 @@ P > ATC: 	Đang có lợi nhuận
 P = ATC	: Lợi nhuận kinh tế bằng 0
 P < ATC	: Đang lỗ
 
-MC < MR -> Làm thêm vẫn lời : Phải sản xuất thêm.
+MC < MR -> Làm thêm vẫn lời : Phải sản xuất thêm. (TĂNG Q)
 MC > MR -> Làm thêm bị lỗ : Phải giảm sản xuất.
-MC = MR -> Lợi nhuận cao nhất : Đây là điểm dừng đẹp nhất.
+MC = MR -> Lợi nhuận cao nhất : Đây là điểm dừng đẹp nhất. (giữ nguyên Q)
 
 Cạnh tranh hoàn hảo: Độ dốc bằng 0 – dễ gia nhập
 Cạnh tranh độc quyền: Độ dốc âm – dễ gia nhập
@@ -294,4 +300,27 @@ A. Sản xuất tại mức ATC min (ĐA)
 B. Lợi nhuận kinh tế dương
 C. Sản xuất ít hơn mức ATC min
 D. Bán giá bằng chi phí cận biên
+16. Đối với các hãng CTHH, giá ___ doanh thu cận biên, đối với các hãng ĐQ, giá __ doanh thu cận biên
+A. bằng, bằng
+B. bằng, lớn hơn (ĐA) 
+C. nhỏ hơn, bằng
+D. 
+CTHH : AR = P = MR = MC
+ĐQ: AR = P > MR = MC
+22. Nếu hãng CTHH đang sx nhiều hơn mức sản lượng tối đa hóa lợi nhuận của nó. Bạn có thể kết luận rằng:
+A. Tổng chi phí trung bình lớn hơn giá sản phẩm
+B. CP cận biên lớn hơn giá sản phẩm (ĐA)
+C. Dthu cận biên của hãng nhỏ hơn giá của sản phẩm
+D. Tổng chi phí lớn hơn tổng doanh thu của hãng
+26. Nếu giá 1 HH tăng dọc theo đường cầu => giảm thặng dư tiêu dùng
+35. Câu nào sau đây ko phải là ví dụ về phân biệt giá?
+A. Các hãng hàng ko tính giá cao hơn trong mùa lễ
+B. Giảm giá phương tiện giao thông công cộng cho svien và người cao tuổi
+C. Sự khác biệt về giá giữa vé hạng thương gia và hạng phổ thông (ĐA)
+D. Các trạm xăng cung cấp nhiên liệu hơn vào một số ngày trong tuần
 
+Câu 19: Giả sử thị trường thịt bò là cạnh tranh hoàn hảo. Các nhà sản xuất thịt bò hiện không kiếm được lợi nhuận kinh tế. Nếu người tiêu dùng chuyển từ thịt bò sang thịt gà thì điều nào sau đây có khả năng xảy ra nhất
+A) các Các nhà sản xuất thịt bò sẽ phải chịu lỗ vốn trong ngắn hạn. Một số sẽ rời khỏi ngành cho đến khi những người còn lại kiểm được lợi nhuận kinh tế bằng không. (ĐA)
+B) Các nhà sản xuất thịt bò sẽ phải chịu lỗ vốn trong ngắn hạn. Một số nhà sản xuất sẽ rời khỏi ngành cho đến khi những người còn lại kiếm được lợi nhuận kinh tế dương.
+C) Các nhà sản xuất thịt bò sẽ phải chịu lỗ vốn trong cả ngắn hạn và dài hạn.
+D) Các nhà sản xuất thịt bò hiện sẽ kiếm được lợi nhuận kinh tế dương trong ngắn hạn và sẽ không có thêm điều chỉnh nào trong dài hạn.
